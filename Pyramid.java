@@ -1,3 +1,4 @@
+//Code FOR Pyramid//
 package abhishek;
 
 public class Pyramid {

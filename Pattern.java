@@ -1,3 +1,4 @@
+//Code For pattern//
 package abhishek;
 
 public class Pattern {
